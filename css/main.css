@@ -1,0 +1,38 @@
+body {
+	background-image: url("../img/books.jpg");
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+ 	background-size: cover;
+ 	background-attachment: fixed;
+}
+
+.text {
+	color: silver;
+}
+
+#results {
+	color: white;
+	margin: 0;
+	padding-bottom: 20px;
+
+}
+
+h2, h3, h4 {
+	display: block;
+/
+}
+
+h2 {
+	padding-top: 60px;
+}
+
+img {
+	display: block;
+}
+
+
+#button {
+	display: block;
+	object-position: fixed;
+}
